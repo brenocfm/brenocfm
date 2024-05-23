@@ -16,9 +16,9 @@
 
 ## Minhas estatísticas no GitHub 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenocanyggia&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenocfm&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenocanyggia&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenofm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/brenocanyggia/
