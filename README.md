@@ -2,14 +2,13 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, seja bem-vindo, eu sou o Breno!
 &ensp;<a href="https://www.linkedin.com/in/akshay-pachaar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 
-## Sou Especialista em Tecnologia, focado em Soluções de Contact Center as a Service, CX e AI.
+## Especialista em Tecnologia focado em Soluções de Contact Center as a Service, CX e AI.
 
-Focado em construir a próxima geração de Contact Center as a Service, CX e IA.
+Estou comprometido em construir a próxima geração de soluções de Contact Center as a Service, CX e IA.
 
-Graduado em Tecnologia de Redes de Computadores com amplo conhecimento em infraestrutura de TI, incluindo Cloud Computing (AWS Certified Solutions Architect) e bancos de dados.
+Sou graduado em Tecnologia de Redes de Computadores, com amplo conhecimento em infraestrutura de TI, incluindo Cloud Computing (AWS Certified Solutions Architect) e bancos de dados.
 
-Com mais de 13 anos de experiência em soluções para Contact Center, sou especialista em produtos Genesys (Connect, Engage e Cloud), certificado e com histórico de implementações bem-sucedidas em grandes clientes.
-Meu profundo conhecimento em Contact Center, Customer Experience e IA me permite criar soluções inovadoras que melhoram a comunicação, a satisfação do cliente e os resultados do negócio.
+Com mais de 13 anos de experiência em soluções para Contact Center, sou especialista em produtos Genesys (Connect, Engage e Cloud), certificado e com um histórico de implementações bem-sucedidas em grandes clientes. Meu profundo conhecimento em Contact Center, Customer Experience e IA me permite criar soluções inovadoras que melhoram a comunicação, a satisfação do cliente e os resultados do negócio.
 
 ---
 
@@ -20,11 +19,11 @@ Meu profundo conhecimento em Contact Center, Customer Experience e IA me permite
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenocfm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Se conecte comigo!
+## Conecte-se comigo!
 &ensp;<a href="https://www.linkedin.com/in/akshay-pachaar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 
 ---
-## Apoiar-me!
+## Apoie-me!
 Pode mostrar o seu apoio marcando os meus repositórios com uma estrela.
 
 Saúde!!! 🍻 
