@@ -20,14 +20,8 @@ Meu profundo conhecimento em Contact Center, Customer Experience e IA me permite
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenocfm&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[linkedin]: https://www.linkedin.com/in/brenocanyggia/
----
-
 ## Connect With Me:
-
-[<img align="left" alt="codeSTACKr | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+&ensp;<a href="https://www.linkedin.com/in/akshay-pachaar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 
 ---
 ## Apoiar-me!
