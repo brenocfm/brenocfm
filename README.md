@@ -2,15 +2,14 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, seja bem-vindo, eu sou o Breno!
 &ensp;<a href="https://www.linkedin.com/in/akshay-pachaar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 
-## Sou um especialista em tecnologia, focado em soluções de Contact Center as a Service, CX e AI.
+## Sou Especialista em Tecnologia, focado em Soluções de Contact Center as a Service, CX e AI.
 
-- Tenho mais de 13 anos de experiência já tendo trabalhado com diversos produtos e tecnologias.
-- I previously worked @ [TomTom][tomtom] where we apply ML to build and update Maps and ADAS systems for advanced vehicles.
-- I have previously worked @ [HERE][here] (owned by consortium of Audi, BMW & Daimler)
-- I have an integrated Masters in Mathematics and Bachelor of Engineering in EEE from [BITS Pilani][college]
-- I create free educational content about Python, Maths and Machine Learning
-- The corresponding code for my tutorials is here on GitHub
-- I also post articles on my [Blog][website]
+Focado em construir a próxima geração de Contact Center as a Service, CX e IA.
+
+Graduado em Tecnologia de Redes de Computadores com amplo conhecimento em infraestrutura de TI, incluindo Cloud Computing (AWS Certified Solutions Architect) e bancos de dados.
+
+Com mais de 13 anos de experiência em soluções para Contact Center, sou especialista em produtos Genesys (Connect, Engage e Cloud), certificado e com histórico de implementações bem-sucedidas em grandes clientes.
+Meu profundo conhecimento em Contact Center, Customer Experience e IA me permite criar soluções inovadoras que melhoram a comunicação, a satisfação do cliente e os resultados do negócio.
 
 ---
 
