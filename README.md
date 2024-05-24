@@ -2,9 +2,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, seja bem-vindo, eu sou o Breno!
 &ensp;<a href="https://www.linkedin.com/in/akshay-pachaar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 
-## Especialista em Tecnologia focado em Soluções de Contact Center as a Service, CX e AI.
-
-Estou comprometido em construir a próxima geração de soluções de Contact Center as a Service, CX e IA.
+## Estou comprometido em construir a próxima geração de soluções de Contact Center as a Service, CX e IA.
 
 Sou graduado em Tecnologia de Redes de Computadores, com amplo conhecimento em infraestrutura de TI, incluindo Cloud Computing (AWS Certified Solutions Architect) e bancos de dados.
 
